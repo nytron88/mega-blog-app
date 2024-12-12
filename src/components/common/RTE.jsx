@@ -12,7 +12,7 @@ function RTE({ control, name, label, defaultValue = "" }) {
         control={control}
         render={({ field: { onChange } }) => (
           <Editor
-            apiKey={config.tinymceKey}
+            apiKey={config.tinymceId}
             initialValue={defaultValue}
             init={{
               initialValue: defaultValue,

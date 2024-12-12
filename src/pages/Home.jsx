@@ -28,19 +28,19 @@ function Home() {
       id: 1,
       title: "The Future of Web Development in 2024",
       excerpt: "Explore the latest trends in web development, from AI integration to advanced frontend frameworks...",
-      imageUrl: "https://cloud.appwrite.io/v1/storage/buckets/6742260b0015a29cb92d/files/67441c2e00340f987719/view?project=67343822001d8de0944e&mode=admin"
+      imageUrl: "https://cloud.appwrite.io/v1/storage/buckets/6753e450001e04609f53/files/6753e5880030d9502fde/view?project=67343822001d8de0944e&project=67343822001d8de0944e&mode=admin"
     },
     {
       id: 2,
       title: "Mastering Modern JavaScript: A Complete Guide",
       excerpt: "Deep dive into advanced JavaScript concepts, best practices, and performance optimization techniques...",
-      imageUrl: "https://cloud.appwrite.io/v1/storage/buckets/6742260b0015a29cb92d/files/67441ea200273d2bb80d/view?project=67343822001d8de0944e&mode=admin"
+      imageUrl: "https://cloud.appwrite.io/v1/storage/buckets/6753e450001e04609f53/files/6753e574003934d313a7/view?project=67343822001d8de0944e&project=67343822001d8de0944e&mode=admin"
     },
     {
       id: 3,
       title: "Building Scalable Applications with React",
       excerpt: "Learn how to architect large-scale React applications with proven patterns and practices...",
-      imageUrl: "https://cloud.appwrite.io/v1/storage/buckets/6742260b0015a29cb92d/files/67441f3e0028e46670b9/view?project=67343822001d8de0944e&mode=admin"
+      imageUrl: "https://cloud.appwrite.io/v1/storage/buckets/6753e450001e04609f53/files/6753e5ee00210bd4fe95/view?project=67343822001d8de0944e&project=67343822001d8de0944e&mode=admin"
     },
   ];
 
